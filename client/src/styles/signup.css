@@ -1,0 +1,21 @@
+.singup-container form{
+    width:470px;
+    margin: auto;
+    padding: 40px;
+}
+.singup-container form input{
+    margin: 20px 0;
+}
+.singup-container .form-wrapper{
+    background: #17a2b8;
+    border-radius: 5px;
+}
+.btn-success{
+    background-color: #15CD72;
+    border-color: #15CD72;
+}
+@media screen and (max-width: 550px) {
+    .singup-container form{
+        width: 100%;
+    }
+}
